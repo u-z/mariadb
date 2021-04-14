@@ -1,0 +1,9 @@
+[server]
+character-set-server = utf8mb4
+
+[mysqld]
+#default-time-zone = 'Asia/Tokyo'
+
+[mysqldump]
+skip-comments
+skip-extended-insert
